@@ -2,7 +2,6 @@
 
 int main(void)
 {
-	printf("test coding....\n");
+	print("changed code\n");
 	return 0;
-
 }
